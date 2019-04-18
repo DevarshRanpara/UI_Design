@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from [:url_launcher] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-22:12
+MERGED from [:webview_flutter] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/webview_flutter/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/be71c255e54da4bcd1245fa8bddb5076/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/webkit-1.0.0.aar/eaeb5845adeeb26efba3d6dad2f97510/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/5903a1edb42a2051c1ca953f8f98d799/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/9b6d104a6bc3c4048798dc4fd99822b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/52766b318e9f9cefbb6ce2f208b60421/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/4d2073555d93640d79245ca2eed8ccf9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/05e504da1a1ea8caf288331efd83cd49/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/d1826c49e2b82caedac288756f9038a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/cb9488538959996056bdf06c1de994c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3a2b251239f2ec4169768e758a54fd64/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d9668ea771d86c95c27561e2dd451636/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b8764eca7c111fbeeb0aa1c469cd25c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/80a5a672498e9b83747fe32976a088c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/85a289aee9f232ce132d5e2837f1cf37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8a3a5350338811db4435b1cc13bc96ba/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/927bc16eaaff94c7819e326deb69bf5b/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/56c7a4cf40d36ed46fe5ffa850f5542a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ae63f9ada35c1e9ddce44d28580e47ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/6154877b3bb22e1e5e0b796fa0569833/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ddd1ca97ae6e4b84418156796a57771d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/210760b69161877ef8ce927db525ad69/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/94b46a7df71a1595e27b97b3caa257b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/5df33538cef5e5beb09a0f70bb8dc95b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d8555da04045bf30fe17eeed2a683906/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/5d0e6a8fde2c07e8e505a1e95fabb38a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/7465f7654fe0dae570dc21676e8658a0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:11:5-34:19
+MERGED from [:url_launcher] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:5-20:19
+MERGED from [androidx.core:core:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8a3a5350338811db4435b1cc13bc96ba/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8a3a5350338811db4435b1cc13bc96ba/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/927bc16eaaff94c7819e326deb69bf5b/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/927bc16eaaff94c7819e326deb69bf5b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8a3a5350338811db4435b1cc13bc96ba/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:13:9-31
+	android:icon
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:14:9-43
+	android:name
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:12:9-57
+activity#vr.mobmaxime.com.vr_app.MainActivity
+ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:15:9-33:20
+	android:launchMode
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:17:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:21:13-55
+	android:configChanges
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:19:13-144
+	android:theme
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:name
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:16:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:26:13-28:40
+	android:value
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:28:17-37
+	android:name
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:27:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:30:17-68
+	android:name
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+MERGED from [:url_launcher] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/webview_flutter/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/webview_flutter/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/be71c255e54da4bcd1245fa8bddb5076/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/be71c255e54da4bcd1245fa8bddb5076/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/webkit-1.0.0.aar/eaeb5845adeeb26efba3d6dad2f97510/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/webkit-1.0.0.aar/eaeb5845adeeb26efba3d6dad2f97510/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/5903a1edb42a2051c1ca953f8f98d799/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/5903a1edb42a2051c1ca953f8f98d799/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/9b6d104a6bc3c4048798dc4fd99822b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/9b6d104a6bc3c4048798dc4fd99822b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/52766b318e9f9cefbb6ce2f208b60421/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/52766b318e9f9cefbb6ce2f208b60421/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/4d2073555d93640d79245ca2eed8ccf9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/4d2073555d93640d79245ca2eed8ccf9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/05e504da1a1ea8caf288331efd83cd49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/05e504da1a1ea8caf288331efd83cd49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/d1826c49e2b82caedac288756f9038a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/d1826c49e2b82caedac288756f9038a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/cb9488538959996056bdf06c1de994c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/cb9488538959996056bdf06c1de994c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3a2b251239f2ec4169768e758a54fd64/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3a2b251239f2ec4169768e758a54fd64/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d9668ea771d86c95c27561e2dd451636/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d9668ea771d86c95c27561e2dd451636/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b8764eca7c111fbeeb0aa1c469cd25c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b8764eca7c111fbeeb0aa1c469cd25c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/80a5a672498e9b83747fe32976a088c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/80a5a672498e9b83747fe32976a088c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/85a289aee9f232ce132d5e2837f1cf37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/85a289aee9f232ce132d5e2837f1cf37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8a3a5350338811db4435b1cc13bc96ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8a3a5350338811db4435b1cc13bc96ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/927bc16eaaff94c7819e326deb69bf5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/927bc16eaaff94c7819e326deb69bf5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/56c7a4cf40d36ed46fe5ffa850f5542a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/56c7a4cf40d36ed46fe5ffa850f5542a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ae63f9ada35c1e9ddce44d28580e47ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ae63f9ada35c1e9ddce44d28580e47ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/6154877b3bb22e1e5e0b796fa0569833/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/6154877b3bb22e1e5e0b796fa0569833/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ddd1ca97ae6e4b84418156796a57771d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ddd1ca97ae6e4b84418156796a57771d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/210760b69161877ef8ce927db525ad69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/210760b69161877ef8ce927db525ad69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/94b46a7df71a1595e27b97b3caa257b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/94b46a7df71a1595e27b97b3caa257b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/5df33538cef5e5beb09a0f70bb8dc95b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/5df33538cef5e5beb09a0f70bb8dc95b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d8555da04045bf30fe17eeed2a683906/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d8555da04045bf30fe17eeed2a683906/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/5d0e6a8fde2c07e8e505a1e95fabb38a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/5d0e6a8fde2c07e8e505a1e95fabb38a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/7465f7654fe0dae570dc21676e8658a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mobmaxime/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/7465f7654fe0dae570dc21676e8658a0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/android/app/src/main/AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
+ADDED from [:url_launcher] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:9:13-92
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/mobmaxime/Desktop/Flutter_Projects/vr_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:17:17-67
