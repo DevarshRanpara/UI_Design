@@ -2,7 +2,7 @@
 
 UI Design in Flutter App.
 
-## Some Screenshot of regler 
+## Some Screenshot of this UI 
 
 <img src="ss/ss1.png" height="300em" /> <img src="ss/ss2.png" height="300em" /> 
 <img src="ss/ss3.png" height="300em" /> <img src="ss/ss4.png" height="300em" /> 
