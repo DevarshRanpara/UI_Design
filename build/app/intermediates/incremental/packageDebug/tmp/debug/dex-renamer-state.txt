@@ -1,4 +1,0 @@
-#Thu Apr 18 14:21:27 IST 2019
-base.0=/Users/mobmaxime/Desktop/Flutter_Projects/ui_design/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
